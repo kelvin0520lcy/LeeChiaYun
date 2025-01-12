@@ -72,6 +72,10 @@ input, select, textarea {
 	appearance: none;
 }
 
+.middle {
+	text-align: center;
+}
+
 /* Basic */
 
 	@-ms-viewport {
@@ -4686,8 +4690,4 @@ input, select, textarea {
 			visibility: visible;
 		}
 
-	}
-
-	.middle {
-		text-align: center;
 	}
